@@ -1,0 +1,24 @@
+[
+{"Name": "Manchester City", "Squad": "23", "Age Avg": "27.3", "Foreigners": "16", "Market Value Avg": "€47.45m", "Total Market Value": "€1.09bn"},
+{"Name": "Liverpool FC", "Squad": "27", "Age Avg": "26.9", "Foreigners": "19", "Market Value Avg": "€32.11m", "Total Market Value": "€867.00m"},
+{"Name": "Chelsea FC", "Squad": "25", "Age Avg": "26.7", "Foreigners": "16", "Market Value Avg": "€33.86m", "Total Market Value": "€846.50m"},
+{"Name": "Arsenal FC", "Squad": "23", "Age Avg": "24.5", "Foreigners": "16", "Market Value Avg": "€32.57m", "Total Market Value": "€749.00m"},
+{"Name": "Manchester United", "Squad": "29", "Age Avg": "25.8", "Foreigners": "18", "Market Value Avg": "€25.26m", "Total Market Value": "€732.60m"},
+{"Name": "Tottenham Hotspur", "Squad": "26", "Age Avg": "26.2", "Foreigners": "17", "Market Value Avg": "€26.09m", "Total Market Value": "€678.40m"},
+{"Name": "Aston Villa", "Squad": "26", "Age Avg": "27.3", "Foreigners": "17", "Market Value Avg": "€17.87m", "Total Market Value": "€464.60m"},
+{"Name": "West Ham United", "Squad": "24", "Age Avg": "27.8", "Foreigners": "18", "Market Value Avg": "€19.15m", "Total Market Value": "€459.50m"},
+{"Name": "Newcastle United", "Squad": "28", "Age Avg": "27.7", "Foreigners": "16", "Market Value Avg": "€15.97m", "Total Market Value": "€447.10m"},
+{"Name": "Leicester City", "Squad": "26", "Age Avg": "27.4", "Foreigners": "17", "Market Value Avg": "€16.47m", "Total Market Value": "€428.10m"},
+{"Name": "Everton FC", "Squad": "27", "Age Avg": "27.6", "Foreigners": "13", "Market Value Avg": "€15.15m", "Total Market Value": "€409.10m"},
+{"Name": "Wolverhampton Wanderers", "Squad": "24", "Age Avg": "25.8", "Foreigners": "23", "Market Value Avg": "€15.20m", "Total Market Value": "€364.80m"},
+{"Name": "Southampton FC", "Squad": "24", "Age Avg": "25.0", "Foreigners": "16", "Market Value Avg": "€13.13m", "Total Market Value": "€315.00m"},
+{"Name": "Brighton & Hove Albion", "Squad": "23", "Age Avg": "25.2", "Foreigners": "16", "Market Value Avg": "€13.61m", "Total Market Value": "€313.10m"},
+{"Name": "Brentford FC", "Squad": "24", "Age Avg": "25.8", "Foreigners": "18", "Market Value Avg": "€12.73m", "Total Market Value": "€305.50m"},
+{"Name": "Crystal Palace", "Squad": "24", "Age Avg": "27.0", "Foreigners": "13", "Market Value Avg": "€12.22m", "Total Market Value": "€293.20m"},
+{"Name": "Nottingham Forest", "Squad": "32", "Age Avg": "26.4", "Foreigners": "20", "Market Value Avg": "€8.78m", "Total Market Value": "€280.80m"},
+{"Name": "Leeds United", "Squad": "26", "Age Avg": "25.4", "Foreigners": "19", "Market Value Avg": "€10.45m", "Total Market Value": "€271.80m"},
+{"Name": "Fulham FC", "Squad": "24", "Age Avg": "27.6", "Foreigners": "20", "Market Value Avg": "€10.00m", "Total Market Value": "€240.00m"},
+{"Name": "AFC Bournemouth", "Squad": "27", "Age Avg": "26.3", "Foreigners": "13", "Market Value Avg": "€6.66m", "Total Market Value": "€179.70m"}
+]
+
+

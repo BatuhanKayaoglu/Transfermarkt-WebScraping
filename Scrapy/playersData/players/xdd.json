@@ -1,0 +1,44 @@
+[
+{"name": "Erling Braut H\u00e5land",
+ "age": "22",
+  "city": "Norway",
+   "current Club": "Manchester City",
+    "agent": "Rafaela Pimenta",
+"position": "Attack - Centre-Forward",
+"markt Value": "\u20ac170.00m"},
+
+
+
+{"name": "Kyle Andrew Walker",
+ "age": "32",
+  "city": "England",
+   "current Club": "Manchester City",
+    "agent": "CAA Base Ltd",
+     "position": "Defender - Right-Back",
+      "markt Value": "\u20ac15.00m"},
+
+
+{"name": "Ederson Santana de Moraes",
+ "age": "29", "city": "Brazil",
+  "current Club": "Manchester City",
+   "agent": "Gestifute",
+    "position": "Goalkeeper",
+     "markt Value": "\u20ac45.00m"},
+
+
+{"name": "Philip Walter Foden",
+ "age": "22",
+  "city": "England",
+   "current Club": "Manchester City",
+    "agent": "\n                        ",
+     "position": "midfield - Central Midfield",
+      "markt Value": "\u20ac110.00m"},
+
+
+{"name": "R\u00faben Santos Gato Alves Dias",
+ "age": "25", "city": "Portugal",
+  "current Club": "Manchester City",
+   "agent": "Gestifute", 
+   "position": "Defender - Centre-Back",
+    "markt Value": "\u20ac75.00m"}
+]
